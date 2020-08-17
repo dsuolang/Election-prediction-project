@@ -1,4 +1,4 @@
-##Week 2 Assignment 
+##Week 3 Assignment 
 
 #makeVector creates a special "vector
 makeCacheMatrix <- function(x = matrix()) {
